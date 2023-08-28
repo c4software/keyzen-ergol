@@ -15,11 +15,11 @@ layouts["custom"] = " #=-*_`>![]()1234567890";
 // layouts["norman"] = " ntieosaygjkufrdlw;qbpvmcxz1234567890'\",.!?:;/@$%&#*()_ABCDEFGHIJKLMNOPQRSTUVWXYZ~+-={}|^<>`[]\\";
 // layouts["code-es6"] = " {}',;():.>=</_-|`!?#[]\\+\"@$%&*~^";
 
-data.chars = layouts["qwerty"];
 data.consecutive = 5;
 data.word_length = 7;
-data.current_layout = "qwerty";
+data.current_layout = "ergol";
 data.custom_chars = '';
+data.chars = layouts[data.current_layout];
 
 CUSTOM_LAYOUT = 'custom';
 
