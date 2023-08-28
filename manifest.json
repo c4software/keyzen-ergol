@@ -1,11 +1,10 @@
 {
-  // Required
-  "name": "KeyZen",
+  "name": "KeyZen Ergo-L",
   "version": "1.0",
 
-  "description": "A touch typing app for Chrome, src is @ https://github.com/wwwtyro/keyzen",
+  "description": "A touch typing app for Chrome, src is @ https://github.com/c4software/keyzen-ergol",
   "icons": {
-    "128": "app_icon.png"
+    "128": "/assets/app_icon.png"
   },
   "app": {
     "launch": {

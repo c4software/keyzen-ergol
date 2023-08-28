@@ -354,11 +354,9 @@ function choose(a) {
 }
 
 function showActiveLayoutKeyboard() {
-    // Hide all, then show the active.
-    $('.keyboard-layout').hide();
     var currentLayout = data.current_layout;
     // Custom chars have no default layout.
     if (currentLayout != CUSTOM_LAYOUT) {
-        $('.keyboard-layout[data-layout="' + currentLayout + '"]').show()
+        $('.keyboard-layout').html(`<img src="./assets/layouts/${currentLayout}.png" alt="${currentLayout}">`);
     }
 }
