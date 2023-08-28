@@ -28,4 +28,4 @@ Aside from my added features, I modified also the default sound files for correc
 
 ## Hosted Version
 
-If you're online, you could access it here:<https://c4software.github.io/keyzen-ergol/>
+If you're online, you could access it here: <https://c4software.github.io/keyzen-ergol/>
