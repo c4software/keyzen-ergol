@@ -6,7 +6,7 @@ var hpm = 0;
 var ratio = 0;
 
 layouts = {};
-layouts["ergol"] = " nretsiau";
+layouts["ergol"] = " nretsiau,l'\\wmpdocfqbv.?-xhgzy`ky675849302/1!<>!@#$%^&*()_+\"{()}=-|_/~àéèêôâù?ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 layouts["qwerty"] = " fjdksla;ghrueiwoqptyvmc,x.z/bn4738291056`-=[]\\'ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_+{}|:\"<>?";
 layouts["custom"] = " #=-*_`>![]()1234567890";
 
